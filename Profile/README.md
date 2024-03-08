@@ -9,7 +9,7 @@ Guardian Technologies is a pioneering force in cybersecurity, dedicated to forti
 ## Team Members:
 - Michael Roberts: [LInkedIn]()
 - Christen Reinhart: [LInkedIn]()
-- Thierry Tran: [LInkedIn]()
+- Thierry Tran: [LInkedIn](https://www.linkedin.com/in/thierry-tran-703400265/)
 - Edwin Pretel: [LInkedIn]()
 - Seyed M Hashemi Sohi: [LInkedIn]()
 ## Current Challenges:
