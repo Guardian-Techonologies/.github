@@ -7,11 +7,11 @@
 Guardian Technologies is a pioneering force in cybersecurity, dedicated to fortifying digital defenses and ensuring the resilience of organizations against modern cyber threats. With a focus on proactive security measures and innovative solutions, we safeguard digital assets, uphold confidentiality, and preserve the integrity of information systems. Our mission is to empower businesses with the expertise, innovation, and unwavering commitment needed to uphold the highest standards of cybersecurity.
 
 ## Team Members:
-- Michael Roberts: [LinkedIn](www.linkedin.com/in/michael-roberts33)
-- Christen Reinhart: [LinkedIn](https://www.linkedin.com/in/christen-reinhart/)
-- Thierry Tran: [LinkedIn](https://www.linkedin.com/in/thierry-tran-703400265/)
-- Edwin Pretel: [LinkedIn](https://www.linkedin.com/in/preteledwin/)
-- Seyed M Hashemi Sohi: [LinkedIn](https://www.linkedin.com/in/seyed-sohi/)
+- Michael Roberts: [LinkedIn](www.linkedin.com/in/michael-roberts33) [Github](https://github.com/Mjroberts7)
+- Christen Reinhart: [LinkedIn](https://www.linkedin.com/in/christen-reinhart/) [Github](https://github.com/christen-reinhart)
+- Thierry Tran: [LinkedIn](https://www.linkedin.com/in/thierry-tran-703400265/) [Github](https://github.com/thierrytuantran)
+- Edwin Pretel: [LinkedIn](https://www.linkedin.com/in/preteledwin/) [Github](https://github.com/EdInTech23)
+- Seyed M Hashemi Sohi: [LinkedIn](https://www.linkedin.com/in/seyed-sohi/) [Github](https://github.com/armoon1)
 ## Current Challenges:
 * Create a threat model and perform STRIDE analysis.
 * Deploy additional threat detection tools.
