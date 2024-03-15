@@ -45,7 +45,7 @@ Guardian Technologies is a pioneering force in cybersecurity, dedicated to forti
 
 ## Repos
 - [Presentation Video](https://github.com/Guardian-Techonologies/Presentation-Video)
-- [Preview of Splunk Setup](https://github.com/Guardian-Techonologies/Splunk_Preview)
+- [![Preview of Splunk Setup](https://github.com/Guardian-Techonologies/Splunk_Preview)
 - [Presentation Slides](https://github.com/Guardian-Techonologies/Presentation-Slides)
 - [Scripts](https://github.com/Guardian-Techonologies/Scripts)
 - [SOP's](https://github.com/Guardian-Techonologies/SOPs)
