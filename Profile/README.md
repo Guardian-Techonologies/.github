@@ -42,3 +42,10 @@ Guardian Technologies is a pioneering force in cybersecurity, dedicated to forti
 * Actively observe and document adversarial actions, collecting evidence of scanning, TTPs, and IOCs to understand the adversary's tactics and inform defensive strategies.
 
 * Develop and implement scripted automation solutions to detect and alert on adversarial activity, enabling proactive response and mitigation efforts to minimize the impact of security incidents.
+
+## Repos
+- [Presentation Video](https://github.com/Guardian-Techonologies/Presentation-Video)
+- [Presentation Slides](https://github.com/Guardian-Techonologies/Presentation-Slides)
+- [Scripts](https://github.com/Guardian-Techonologies/Scripts)
+- [SOP's](https://github.com/Guardian-Techonologies/SOPs)
+- [Documents](https://github.com/Guardian-Techonologies/Documents)
